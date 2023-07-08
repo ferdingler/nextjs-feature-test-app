@@ -1,0 +1,26 @@
+{
+  "name": "open-next-benchmark",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@next/font": "13.4.7",
+    "date-fns": "^2.23.0",
+    "gray-matter": "^4.0.3",
+    "next": "13.4.7",
+    "next-auth": "^4.22.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.2",
+    "swr": "^1.0.1"
+  },
+  "devDependencies": {
+    "aws-cdk-lib": "2.84.0",
+    "constructs": "10.1.156"
+  }
+}
